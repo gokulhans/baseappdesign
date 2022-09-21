@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279608906227",
+    "project_id": "hotelapp-a4725",
+    "storage_bucket": "hotelapp-a4725.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279608906227:android:3e489d3b8633bd4ca48286",
+        "android_client_info": {
+          "package_name": "com.gbroz.baseappdesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279608906227-ejo2q62tnv6kohdpucp5j3tql1a6jjmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDkW6ko3rjmKGRn1nUqteDUwM5P19tFOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279608906227-ejo2q62tnv6kohdpucp5j3tql1a6jjmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
